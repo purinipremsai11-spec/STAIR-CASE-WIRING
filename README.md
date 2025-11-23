@@ -1,5 +1,8 @@
 # STAIR-CASE-WIRING
-
+```
+# name: p prem sai
+# reg no: 212224080047
+```
 AIM
 To control the status of the given lamp by using two – way switches.
 
